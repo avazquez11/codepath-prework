@@ -1,6 +1,6 @@
 <?php
 
-$hn='localhost'; //$hn is host name
+$hn='localhost'8889; //$hn is host name
 $db='test'; //database name
 $un='root'; //username
 $pw='root';
